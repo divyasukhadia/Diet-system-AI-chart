@@ -96,7 +96,7 @@ FOOD_DB = {
         },
         "normal": {
             "maintain": {
-                "Monday": ("Oats + fruits", "Rice + dal", "Chapati + sabzi"),
+                "Monday": ("Oats + fruits", "Rice + dal", "Chapati + sabzi"), 
                 "Tuesday": ("Idli + sambar", "Veg rice", "Curd + roti"),
                 "Wednesday": ("Poha", "Rajma", "Veg curry"),
                 "Thursday": ("Smoothie bowl", "Khichdi", "Veg stir fry"),
